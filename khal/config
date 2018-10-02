@@ -1,0 +1,21 @@
+[calendars]
+[[personal_google]]
+path = /myhome/.calendars/personal_google/*
+type = discover
+color = dark blue
+
+[locale]
+timeformat = %H:%M
+dateformat = %Y-%m-%d
+longdateformat = %Y-%m-%d
+datetimeformat = %Y-%m-%d %H:%M
+longdatetimeformat = %Y-%m-%d %H:%M
+firstweekday = 0
+weeknumbers = left
+
+[view]
+frame = width
+
+[default]
+highlight_event_days = True
+
